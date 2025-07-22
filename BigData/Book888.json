@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "category": "Fiction",
+        "available": true,
+        "rating": [
+            4,
+            5,
+            3,
+            4,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "category": "Fiction",
+        "available": true,
+        "rating": [
+            5,
+            4,
+            5,
+            2,
+            5
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Data Science from Scratch",
+        "author": "George Orwell",
+        "year": 1949,
+        "category": "Dystopian",
+        "available": false,
+        "rating": [
+            5,
+            2,
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "category": "Fiction",
+        "available": true,
+        "rating": [
+            3,
+            4,
+            2,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 5,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "category": "Dystopian",
+        "available": false,
+        "rating": [
+            5,
+            5,
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "category": "Romance",
+        "available": true,
+        "rating": [
+            4,
+            5,
+            4,
+            3,
+            5
+        ]
+    },
+    {
+        "id": 7,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "category": "Fantasy",
+        "available": true,
+        "rating": [
+            5,
+            4,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "category": "Adventure",
+        "available": true,
+        "rating": [
+            4,
+            5,
+            3,
+            4,
+            5
+        ]
+    }
+]
